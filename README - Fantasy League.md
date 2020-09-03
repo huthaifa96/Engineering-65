@@ -34,11 +34,11 @@ Creating the database was completed quite quickly whilst also doing most of the 
 
 The major blocker of this sprint was the lack knowledge heading into the project. A university exam on Friday and revising for a C# data test on Tuesday put me back so I had to spend most of sprint 1 refreshing myself on the different CRUD operations and how to create a good, functional GUI. This was done by watching various videos on the likes of YouTube and the Microsoft Stream.
 
-####Sprint 2
+#### Sprint 2
 
 ##### Sprint Goals
 
-The goal for this sprint is to carry out and complete the different CRUD operations whilst also designing a wireframe for the application homepage.
+The goal for this sprint is to carry out and complete the different CRUD operations whilst also designing a wireframe for the application homepage whilst also completing the uncompleted work from sprint 1.
 
 ##### Sprint Review
 
