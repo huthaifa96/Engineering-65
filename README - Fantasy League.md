@@ -42,6 +42,20 @@ The goal for this sprint is to carry out and complete the different CRUD operati
 
 ##### Sprint Review
 
+I came across a little issue with the database so I had to reshuffle some columns and data - this was overflow from Sprint 1. I started my CRUD operations and they're almost complete, its just I came across some issues that are going to be ironed out in Sprint 3. The wireframe for the application homepage had to be dropped as I ran out of time.
+
+##### Sprint Retrospective
+
+The major blocker for this sprint was the reshuffling of the database and the data in it. I think next time, it's better to create an ERD so the database can be visualsied right from the beginning. It took a while to get my different CRUD operations working, but I eventually got started after asking for support from the team and going back through the lesson videos.
+
+#### Sprint 3
+
+##### Sprint Goals
+
+The target for this sprint is to finish the CRUD operations, creating an initial GUI that can be built upon over the weekend and to start creating the unit tests.
+
+##### Sprint Review
+
 
 
 ##### Sprint Retrospective
