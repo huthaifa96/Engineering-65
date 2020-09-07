@@ -56,9 +56,24 @@ The target for this sprint is to finish the CRUD operations, creating an initial
 
 ##### Sprint Review
 
-
+The CRUD operations were done and an initial GUI was created so the main objectives I set out for the day were completed. However, I didn't get round to starting my unit tests as the initial GUI took longer than expected. 
 
 ##### Sprint Retrospective
 
+Although the main objectives of this sprint was met, it took much longer than it should have - I was hoping to achieve these objects much earlier in the day so I can start my unit testing. I think going forward, I should set a structure and time box each task as things turn out to become messy. It'll also help me set my goals for each sprint with far more accuracy as I would be able to better estimate how long certain tasks should take.
+
+#### Sprint 4
+
+##### Sprint Goals
+
+To start my unit testing and add more functionality to my GUI, such as the create and delete functions.
+
+##### Sprint Review
+
+The extra functionalities I set at the beginning of this sprint was met and caused no major issues however, the unit tests have caused me big problems. An update error for every test is generated but there's no issues with the code itself. I've spoke to my fellow group members and some have experienced the same problem but yet to solve it.
+
+##### Sprint Retrospective
+
+A very frustrating and infuriating sprint as I can't find a solution for the unit test 'update' problem. I think working with the guys tomorrow should help and I'll ask for their advice.
 
 
