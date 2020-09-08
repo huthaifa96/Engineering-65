@@ -6,6 +6,10 @@ This application will allow users to create football teams and players into a fa
 
 When a team is selected, the team description and the number of trophies won will be on show. This information is stored in the teams table in the database.
 
+## Class Diagram
+
+[]
+
 ## Sprints
 
 #### Sprint 1
