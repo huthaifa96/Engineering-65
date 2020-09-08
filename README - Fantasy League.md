@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This application will allow users to create football teams and players into a fantasy league by  adding it to an already existing database. When the user selects a player, the player's attributes such as name, age, height, strongest foot and position will appear. Also, the player's statistics like the number of goals scored and assisted will appear along with the number of trophies they have won so far throughout their career. These are all stored in the players and players statistics tables.
+This application will allow users to create football teams and players into a fantasy league by  adding it to an already existing database. When the user selects a player, the player's attributes such as name, age, height, strongest foot and position will appear. These are all stored in the players table.
 
-When a team is selected, the team description and the number of trophies won will be on show. This information is stored in the teams table in the database. The application will have a feature where it'll show you the most successful player and team in the database by selecting the team/player with the most trophies won.
+When a team is selected, the team description and the number of trophies won will be on show. This information is stored in the teams table in the database.
 
 ## Sprints
 
