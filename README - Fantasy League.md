@@ -6,18 +6,6 @@ This application will allow users to create football teams and players into a fa
 
 When a team is selected, the team description and the number of trophies won will be on show. This information is stored in the teams table in the database. The application will have a feature where it'll show you the most successful player and team in the database by selecting the team/player with the most trophies won.
 
-## Class Diagram
-
-[insert image of class diagram]
-
-
-
-## Application Homepage
-
-[Insert image of gui]
-
-
-
 ## Sprints
 
 #### Sprint 1
@@ -75,5 +63,32 @@ The extra functionalities I set at the beginning of this sprint was met and caus
 ##### Sprint Retrospective
 
 A very frustrating and infuriating sprint as I can't find a solution for the unit test 'update' problem. I think working with the guys tomorrow should help and I'll ask for their advice.
+
+#### Sprint 5
+
+##### Sprint Goals
+
+The goals for sprint 5 is to fix the update error for my unit tests, add a second players page and have that page linked to the first page
+
+##### Sprint Review
+
+For the first time in this project, all the goals set out for a sprint was achieved! All the tests are functional and are passing, whilst the second page is all set up and linked with the first page.
+
+##### Sprint Retrospective
+
+This was the best sprint in the whole project! As mentioned in the review, all the goals set at the beginning of the sprint was achieved. I spent the last couple of hours of sprint 4 trying to get the tests working but had no success. So I thought it'd be best if I started sprint 5 by creating the second page and linking it to the first and thankfully, that went smoothly. Then in the afternoon, after looking at the tests and slightly amending them, they also passed to my delight! 
+
+#### Sprint 6
+
+##### Sprint Goals
+
+The aim of this final sprint is to add a background image, check all the data is in place (each team has 5 players and each player has their attributes filled in), the project board is up to date and do a mock demonstration to the group.
+
+##### Sprint Review
+
+
+##### Sprint Retrospective
+
+
 
 
